@@ -27,18 +27,19 @@ function Landing(){
             <img src={studyIcon} alt="Estudar"/>
             Estudar
           </a>
+        </div>
 
-          <div className="buttons-container">
+        <div className="buttons-container">
           <a href={giveClassesIcon} className="give-classes">
             <img src={studyIcon} alt="Estudar"/>
             Dar aula
           </a>
-
-          <span className="total-conections">
-            Total de 200 conexões já realizadas <img src={purpleHeartIcon} alt="Coração roxo"/>
-          </span>
-          </div>
         </div>
+
+        <span className="total-conections">
+          Total de 200 conexões já realizadas <img src={purpleHeartIcon} alt="Coração roxo"/>
+        </span>
+
       </div>
     </div>
   )
