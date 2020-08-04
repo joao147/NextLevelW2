@@ -1,0 +1,12 @@
+{
+  "name": "NextLevelW2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/joao147/NextLevelW2.git",
+  "author": "<j218927@dac.unicamp.br>",
+  "license": "MIT",
+  "devDependencies": {
+    "ts-node-dev": "^1.0.0-pre.56",
+    "typescript": "^3.9.7"
+  }
+}
