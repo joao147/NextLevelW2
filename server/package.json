@@ -1,11 +1,11 @@
 {
-  "name": "NextLevelW2",
+  "name": "server",
   "version": "1.0.0",
   "main": "index.js",
   "repository": "https://github.com/joao147/NextLevelW2.git",
   "author": "<j218927@dac.unicamp.br>",
   "license": "MIT",
-  "srcripts": {
+  "scripts": {
     "start": "tsnd --transpile-only --ignore-watch node_modules --respawn src/server.ts"
   },
   "devDependencies": {
