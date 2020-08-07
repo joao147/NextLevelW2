@@ -94,10 +94,10 @@
 
 @media (min-width: 1100px) {
   #page-landing-content{
-    max-width: 1100px;
+    max-width: 110rem;
 
     display: grid;
-    grid-template-rows: 350px 1fr;
+    grid-template-rows: 35rem 1fr;
     grid-template-columns: 2fr 1fr 1fr;
     grid-template-areas:
       "logo hero hero"
